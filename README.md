@@ -32,3 +32,4 @@ L’application permettra :
 ## État du projet
 
 Semaine 1 : préparation de l’environnement de travail et de l’arborescence du projet.
+Semaine 2 — Définition du contexte et du besoin métier
