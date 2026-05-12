@@ -33,3 +33,17 @@ L’application permettra :
 
 - Semaine 1 : préparation de l’environnement de travail et de l’arborescence du projet.
 - Semaine 2 : Définition du contexte et du besoin métier.
+### Semaine 4 — Installation et documentation de la stack technique
+
+La stack technique du projet a été vérifiée et documentée.
+
+Actions réalisées :
+
+- vérification de PHP via Laragon ;
+- vérification de MySQL via Laragon ;
+- vérification de Git ;
+- rédaction d’une procédure d’installation locale ;
+- préparation des captures de preuve ;
+- documentation de l’environnement technique.
+
+Le projet dispose maintenant d’un environnement de développement clair et reproductible.

@@ -98,3 +98,48 @@ Cette étape montre ma capacité à analyser une demande, comprendre un besoin m
 ### Bilan
 
 À la fin de cette semaine, le projet TicketFlow possède un contexte clair, des acteurs identifiés et une première version du cahier des charges.
+## Semaine 4 — Installation et documentation de la stack technique
+
+### Objectif
+
+Préparer et documenter la stack technique nécessaire au développement de TicketFlow.
+
+### Actions réalisées
+
+- Vérification de PHP via Laragon.
+- Vérification de MySQL via Laragon.
+- Vérification de Git.
+- Vérification de l’environnement Laragon.
+- Rédaction de la procédure d’installation locale.
+- Préparation des captures de preuve pour le portfolio.
+
+### Stack technique retenue
+
+- PHP pour le développement côté serveur.
+- MySQL pour la base de données.
+- Laragon comme environnement local.
+- Visual Studio Code comme éditeur.
+- Git et GitHub pour le versionnage.
+
+### Difficultés rencontrées
+
+MySQL n’était pas détecté directement avec la commande `where.exe mysql`, car il n’était pas ajouté au PATH Windows.
+
+J’ai donc vérifié sa présence directement dans le dossier Laragon :
+
+`C:\laragon\bin\mysql\mysql-8.4.3-winx64`
+
+### Preuves produites
+
+- Capture de Laragon démarré.
+- Capture de la version PHP.
+- Capture de la version MySQL.
+- Capture de la version Git.
+- Fichier `installation.md`.
+- Capture du fichier `installation.md` sur GitHub.
+
+### Lien avec les compétences BTS SIO
+
+Cette étape montre ma capacité à installer, configurer et documenter un environnement technique nécessaire à la mise à disposition d’un service informatique.
+
+Elle prépare aussi la phase de développement de l’application TicketFlow.
