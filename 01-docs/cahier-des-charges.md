@@ -102,3 +102,38 @@ Les livrables du projet seront :
 - captures d’écran ;
 - dépôt GitHub ;
 - journal de bord.
+
+## Conditions d’accès au service
+
+TicketFlow est une application web accessible depuis un navigateur.
+
+En environnement de développement, l’application sera accessible en local via Laragon, avec une URL de type :
+
+`http://ticketflow.test`
+
+ou :
+
+`http://localhost/ticketflow`
+
+Dans le contexte fictif de NovaTech Services, l’application pourrait être hébergée sur un serveur interne et accessible depuis le réseau local de l’entreprise via une URL de type :
+
+`http://ticketflow.novatech.local`
+
+L’accès au service sera réservé aux utilisateurs disposant d’un compte.
+
+Chaque utilisateur devra se connecter avec un identifiant et un mot de passe.
+
+Les droits d’accès dépendront du rôle de l’utilisateur :
+
+- le salarié pourra créer et suivre ses tickets ;
+- le technicien pourra traiter les tickets qui lui sont attribués ;
+- l’administrateur pourra gérer les utilisateurs, les tickets et les attributions ;
+- le responsable informatique pourra consulter les indicateurs.
+
+Les principales contraintes d’accès sont :
+
+- disposer d’un navigateur web récent ;
+- être connecté au réseau local ou à l’environnement de développement ;
+- utiliser un compte autorisé ;
+- respecter les droits définis selon le rôle ;
+- assurer la disponibilité du serveur web et de la base de données.

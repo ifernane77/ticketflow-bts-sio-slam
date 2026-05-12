@@ -143,3 +143,42 @@ J’ai donc vérifié sa présence directement dans le dossier Laragon :
 Cette étape montre ma capacité à installer, configurer et documenter un environnement technique nécessaire à la mise à disposition d’un service informatique.
 
 Elle prépare aussi la phase de développement de l’application TicketFlow.
+
+## Semaine 5 — Contraintes réseau et accès au service
+
+### Objectif
+
+Définir les conditions d’accès à l’application TicketFlow dans un contexte local et dans un contexte professionnel simulé.
+
+### Actions réalisées
+
+- Définition de l’URL locale de développement.
+- Définition d’une URL interne fictive pour NovaTech Services.
+- Identification des utilisateurs autorisés à accéder au service.
+- Précision des contraintes réseau.
+- Ajout des conditions d’accès dans le cahier des charges.
+- Création d’une fiche d’accès au service.
+
+### Choix réalisés
+
+En environnement de développement, TicketFlow sera accessible localement via Laragon.
+
+En environnement professionnel simulé, l’application pourrait être hébergée sur un serveur interne et accessible depuis le réseau de NovaTech Services.
+
+L’accès sera limité aux utilisateurs authentifiés.
+
+### Preuves produites
+
+- Fichier `acces-service-ticketflow.md`
+- Cahier des charges mis à jour
+- Capture du fichier d’accès au service dans VS Code
+- Capture du cahier des charges modifié
+- Capture GitHub après envoi des modifications
+
+### Lien avec les compétences BTS SIO
+
+Cette étape montre ma capacité à prévoir les conditions de mise à disposition d’un service informatique, à identifier les contraintes d’accès et à documenter les éléments techniques nécessaires à l’utilisation de l’application.
+
+### Bilan
+
+À la fin de cette semaine, les conditions d’accès à TicketFlow sont définies et documentées.
